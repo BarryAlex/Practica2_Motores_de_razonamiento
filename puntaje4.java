@@ -21,7 +21,7 @@ public class puntaje4 extends JFrame{
     miPanel.setBackground(new Color(245,245,245));
 
     scroll = new JScrollPane(miPanel);
-    miPanel.setPreferredSize(new Dimension(540,620));
+    miPanel.setPreferredSize(new Dimension(540,680));
     scroll.getVerticalScrollBar().setUnitIncrement(16);
     add(scroll);
 
@@ -45,7 +45,7 @@ public class puntaje4 extends JFrame{
     miPanel.add(mensaje3);
 
     ResComp = new JTextArea();
-    ResComp.setBounds(5,30,550,590);
+    ResComp.setBounds(5,30,550,650);
     ResComp.setEditable(false);
     ResComp.setFont(fuente1);
     ResComp.setBackground(new Color(245,245,245));
