@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Edwing Alexis Casillas Valencia
+Main-Class: Proyecto
+X-COMMENT: Proyecto parcial 2 de sistemas expertos
